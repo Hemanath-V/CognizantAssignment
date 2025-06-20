@@ -1,3 +1,5 @@
+package SingletonPatternExample;
+
 class Logger{
     private static Logger instance;
     private Logger(){
